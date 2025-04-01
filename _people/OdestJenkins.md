@@ -1,7 +1,7 @@
 ---
 first_name: Odest Chadwicke
 last_name: Jenkins
-title: Founding Chair of Michigan Robotics Undergraduate Program and Professor of Robotics
+title: Professor of Robotics, Founding Chair of Michigan Robotics Undergraduate Program
 school: University of Michigan
 website: https://ocj.name/
 image: https://ocj.name/images/jenkins_um_small.jpg
